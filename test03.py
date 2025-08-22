@@ -1,7 +1,7 @@
 # คำสั่งแสดงผลข้อมูลใดๆ ทั้งหน้าจอ ใช้ฟังชัน print()
 # string
-print('Hello')
-print("Hi")
+print('Hel"lo')
+print("H'i")
 print("""Huuuu""")
 
 # number
