@@ -15,3 +15,5 @@ print(False)
 # Expression นิพจน์ คือ อะไรก็ตามที่มี process การทำงาน เช่น การคำนวณ ,ตัวแปร ,...
 print(10+20+30)
 print(5 * 2 / 4)
+print("""asdf""")
+print('''jkl;''') 
